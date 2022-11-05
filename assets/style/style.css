@@ -7,7 +7,7 @@ body{
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: rgb(67, 69, 63);
+    background-color: rgb(201, 203, 196);
     font-size: 120%;
 }
 
@@ -63,4 +63,10 @@ button {
 h1.temp{
     margin: 0;
     margin-bottom: 0.5em;
+}
+
+p.copyright {
+    position: absolute;
+    bottom: 10px;
+    color: rgb(0, 0, 0);
 }
